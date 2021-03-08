@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>54324042327-ovp0g2kt15bqr56t9i40p3ojkr5jolgg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.54324042327-ovp0g2kt15bqr56t9i40p3ojkr5jolgg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>54324042327-hfeoue9kda2481a9r3c12qefu3n9cphf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBT9FmenBcoZgHmgzNco_dyTLP16BSMWoE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>54324042327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Subnight</string>
+	<key>PROJECT_ID</key>
+	<string>subnight-734c4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>subnight-734c4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:54324042327:ios:c9c4ce5bac2ae307</string>
+	<key>DATABASE_URL</key>
+	<string>https://subnight-734c4.firebaseio.com</string>
+</dict>
+</plist>
